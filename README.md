@@ -1,3 +1,5 @@
+<img style="margin:auto;" width="597" height="440" alt="image" src="https://github.com/user-attachments/assets/cce49397-7d6e-4c9a-b61e-c453edc36d28" />
+
 # 🔐 WireGuard GUI Manager
 
 A modern, user-friendly graphical interface for managing WireGuard VPN connections on Linux. Features a sleek dark theme and intuitive controls for connecting, disconnecting, and managing WireGuard configurations.
