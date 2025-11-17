@@ -1,0 +1,7 @@
+# WireGuard GUI Manager Requirements
+# Python 3.6+
+
+# Standard library modules used (no external dependencies):
+# - tkinter (usually comes with Python)
+# - os
+# - subprocess
